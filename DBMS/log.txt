@@ -1,0 +1,220 @@
+use database sneh at 2023-10-28 10:12:02
+exit at 2023-10-28 10:13:18
+[Query] start transaction at 2023-10-28 10:20:38
+[Query] use database sbeh at 2023-10-28 10:20:44
+[Query] use database sneh at 2023-10-28 10:20:51
+[Query] start transaction at 2023-10-28 10:20:56
+[Query] insert into user values(4,sneh,7) at 2023-10-28 10:21:46
+[Query] use database sneh at 2023-10-28 10:22:10
+[Query] insert into user values (1,sneh,36) at 2023-10-28 10:22:33
+[Query] use database sneh at 2023-10-28 10:23:00
+[Query] create table user1 ((id,name)) at 2023-10-28 10:23:28
+[Query] insert into user1 values(10,sneh) at 2023-10-28 10:24:43
+[Query] use satabse sneh at 2023-10-28 10:30:35
+[Query] use database sneh at 2023-10-28 10:30:39
+[Query] begin at 2023-10-28 10:30:47
+[Query] insert into user values(1,sneh,89) at 2023-10-28 10:31:31
+[Query] use database sneh at 2023-10-28 10:31:42
+[Query] begin transaction at 2023-10-28 10:31:51
+[Query] create table user3 ((id,name)) at 2023-10-28 10:32:30
+[Query] use database sneh at 2023-10-28 10:49:47
+[Query] use database sneh at 2023-10-28 10:50:18
+[Query] BEDIN TRANSACTION at 2023-10-28 10:50:27
+[Query] BEGIN TRANSACTION at 2023-10-28 10:50:34
+[Query] create table user3 ((id,name)) at 2023-10-28 10:51:04
+[Query] create table user4 ((id,name)) at 2023-10-28 10:51:17
+[Query] insert into user4 values (1,sneh) at 2023-10-28 10:51:35
+[Query] insert into user4 values(1,sneh) at 2023-10-28 10:52:10
+[Query] use databse sneh at 2023-10-28 11:01:25
+[Query] use database sneh at 2023-10-28 11:01:32
+[Query] insert into user4 values(1,sneh,rt) at 2023-10-28 11:02:30
+[Query] use database sneh at 2023-10-28 11:05:03
+[Query] start transaction at 2023-10-28 11:05:14
+[Query] update user set name = sneh where id = 1 at 2023-10-28 11:05:57
+[Query] rollback at 2023-10-28 11:06:07
+[Query] use database sneh at 2023-10-28 12:24:55
+[Query] use database sneh at 2023-10-28 12:43:30
+[Query]  at 2023-10-28 12:43:52
+[Query] create database sneh at 2023-10-28 12:47:16
+[Query] use database sneh at 2023-10-28 12:50:35
+[Query] start transaction at 2023-10-28 12:51:40
+[Query] create table sneh ((id,name)) at 2023-10-28 12:52:17
+[Query] use database sneh at 2023-10-28 12:56:47
+[Query] start transaction at 2023-10-28 12:56:59
+[Query] create table user ((id,name)) at 2023-10-28 12:57:17
+[Query] use database sneh at 2023-10-28 13:00:32
+[Query] create table princess ((id,name)) at 2023-10-28 13:01:09
+[Query] start transaction at 2023-10-28 13:01:19
+[Query] create database sneh at 2023-10-28 20:12:25
+[Query] create database me at 2023-10-28 20:12:45
+[Query] use database me at 2023-10-28 20:12:54
+[Query] use me at 2023-10-28 20:13:24
+[Query] use me at 2023-10-28 20:13:47
+[Query] use me at 2023-10-28 20:34:56
+[Query] 2 at 2023-10-28 20:40:33
+[Query] use me at 2023-10-28 20:48:35
+[Query] exit at 2023-10-28 20:48:39
+[Query] create database sneh at 2023-10-28 21:11:19
+[Query] create table sneh (id,name) at 2023-10-28 21:11:31
+[Query] use sneh at 2023-10-28 21:11:35
+[Query] create table sneh (id,name) at 2023-10-28 21:11:42
+[Query]  at 2023-10-28 21:11:50
+[Query] create table sneh ((id,name)) at 2023-10-28 21:12:00
+[Query] create table sneh (id,name) at 2023-10-28 21:12:27
+[Query] insert into sneh values(1,sneh) at 2023-10-28 21:12:57
+[Query] select id from sneh at 2023-10-28 21:13:05
+[Query] select name from sneh at 2023-10-28 21:13:20
+[Query] select name) from sneh at 2023-10-28 21:13:35
+[Query] create database dalhousie at 2023-10-28 21:50:40
+[Query]  at 2023-10-28 21:51:45
+[Query] use dalhousie at 2023-10-28 21:51:58
+[Query] create table cs (id,subject) at 2023-10-28 21:53:23
+[Query] create table cs ((id,name)) at 2023-10-28 21:58:41
+[Query] use dalhousie at 2023-10-28 21:59:29
+[Query] create table cs (id,name) at 2023-10-28 21:59:46
+[Query] use dalhousie at 2023-10-28 22:02:42
+[Query] create table macs (id, name) at 2023-10-28 22:03:08
+[Query] create tabke macs  at 2023-10-28 22:03:58
+[Query] create table macs (id,name) at 2023-10-28 22:04:47
+[Query] create dalhousie at 2023-10-28 22:07:54
+[Query] create database dalhousie at 2023-10-28 22:08:03
+[Query] insert into macs values(1,Data Managemnet warehousing and Analytics) at 2023-10-28 22:09:45
+[Query] insert into macs values(2,Advance Software Development Concepts) at 2023-10-28 22:10:32
+[Query] insert into macs values(3, Communication and Computer Science Ideas) at 2023-10-28 22:11:08
+[Query] insert into macs values(4,Seververless,SD) at 2023-10-28 22:12:12
+[Query] selecet * from macs at 2023-10-28 22:13:01
+[Query] select * from macs at 2023-10-28 22:13:13
+[Query] select name from macs at 2023-10-28 22:13:46
+[Query] select * from macs where id = 2 at 2023-10-28 22:14:28
+[Query] select * from macs where id > 2 at 2023-10-28 22:15:02
+[Query] select * from macs where id < 2 at 2023-10-28 22:15:17
+[Query] select name id from macs at 2023-10-28 22:16:24
+[Query] delete from macs where id = 3 at 2023-10-28 22:17:22
+[Query] select * from macs at 2023-10-28 22:17:35
+[Query]  at 2023-10-28 22:17:55
+[Query] select * from macs at 2023-10-28 22:18:09
+[Query] delete form macs where id > 2 at 2023-10-28 22:18:27
+[Query] select * from macs at 2023-10-28 22:18:48
+[Query] delete from macs where id > 2 at 2023-10-28 22:18:58
+[Query] update macs set name = CloudArchitecture where id = 2 at 2023-10-28 22:20:43
+[Query] slecet * from macs at 2023-10-28 22:20:53
+[Query] select * from macs at 2023-10-28 22:21:09
+[Query] start transaction at 2023-10-28 22:23:25
+[Query] insert into macs values(1,WebDev) at 2023-10-28 22:24:32
+[Query] commit at 2023-10-28 22:24:57
+[Query] select * from macs at 2023-10-28 22:25:17
+[Query] Start Transaction at 2023-10-28 22:25:52
+[Query] start transaction at 2023-10-28 22:26:00
+[Query] insert into macs values(2,uiux) at 2023-10-28 22:26:28
+[Query] rollback at 2023-10-28 22:26:35
+[Query] select * from macs at 2023-10-28 22:27:05
+[Query] exit at 2023-10-28 22:28:44
+[Query] use abc at 2023-10-28 22:30:22
+[Query] create dalhousie at 2023-10-28 22:30:41
+[Query] create database dalhousie at 2023-10-28 22:31:05
+[Query] use dalhousie at 2023-10-28 22:31:50
+[Query] create table at 2023-10-28 22:31:59
+[Query] create table mdi (id,name at 2023-10-28 22:32:37
+[Query] create table mdi (id,name) at 2023-10-28 22:32:58
+[Query] insert into mdi values at 2023-10-28 22:33:12
+[Query] insert into mdi values(1,datasacience,mid) at 2023-10-28 22:34:05
+[Query] select * from at 2023-10-28 22:34:32
+[Query] select var from mdi at 2023-10-28 22:36:32
+[Query] select * from var at 2023-10-28 22:37:07
+[Query] update var set id = 1 at 2023-10-28 22:38:15
+[Query] update mdi set id = 1 at 2023-10-28 22:38:54
+[Query] update mdi set id = 1 where name = var at 2023-10-28 22:39:35
+[Query] delete from mdi at 2023-10-28 22:39:58
+[Query] delete from var where id = 1 at 2023-10-28 22:40:25
+[Query] delete from mdi where id = 5 at 2023-10-28 22:40:53
+[Query] create database sneh at 2024-02-19 23:23:07
+[Query] use sneh at 2024-02-19 23:23:12
+[Query] use sneh at 2024-02-19 23:33:54
+[Query] create table sneh (id,name) at 2024-02-19 23:34:13
+[Query] start transaction at 2024-02-19 23:34:49
+[Query] insert into sneh (1,sneh) at 2024-02-19 23:35:46
+[Query] select * from sneh at 2024-02-19 23:35:59
+[Query] insert into sneh values(1,sneh) at 2024-02-19 23:36:54
+[Query] select * from sneh at 2024-02-19 23:37:04
+[Query] rollback at 2024-02-19 23:37:12
+[Query] select * from sneh at 2024-02-19 23:37:30
+[Query] create database test at 2024-02-19 23:42:26
+[Query] use test at 2024-02-19 23:42:29
+[Query] create table test (id,name) at 2024-02-19 23:42:44
+[Query] insert into test values(1,s) at 2024-02-19 23:43:19
+[Query] select * from test at 2024-02-19 23:43:30
+[Query] transaction start at 2024-02-19 23:43:37
+[Query] start transaction at 2024-02-19 23:43:47
+[Query] select * from test at 2024-02-19 23:45:37
+[Query] use test at 2024-02-19 23:45:41
+[Query] select * from test at 2024-02-19 23:45:49
+[Query] start transaction at 2024-02-19 23:45:57
+[Query] use test at 2024-02-19 23:54:07
+[Query] start transaction at 2024-02-19 23:54:18
+[Query] use test at 2024-02-19 23:55:42
+[Query] start transaction at 2024-02-19 23:55:54
+[Query] insert into test value(2,sneh) at 2024-02-19 23:56:29
+[Query] use test at 2024-02-19 23:58:30
+[Query] start transaction at 2024-02-19 23:59:01
+[Query] insert into values(2,test) at 2024-02-19 23:59:18
+[Query] use test at 2024-02-20 00:02:38
+[Query] start transaction at 2024-02-20 00:02:47
+[Query] insert into test values(2,test) at 2024-02-20 00:03:17
+[Query] use test at 2024-02-20 00:06:21
+[Query] start transaction at 2024-02-20 00:06:34
+[Query] use test at 2024-02-20 00:07:39
+[Query] start transaction at 2024-02-20 00:07:45
+[Query] insert into test values(2,sneh) at 2024-02-20 00:07:59
+[Query] use test at 2024-02-20 00:09:03
+[Query] start transaction at 2024-02-20 00:09:18
+[Query] insert into test values(2,test) at 2024-02-20 00:09:40
+[Query] rollback at 2024-02-20 00:10:27
+[Query] select * from test at 2024-02-20 00:10:48
+[Query] use test at 2024-02-20 00:14:06
+[Query] start transaction at 2024-02-20 00:14:33
+[Query] insert into test values(2,test) at 2024-02-20 00:14:58
+[Query] select * from test at 2024-02-20 00:15:14
+[Query] rollback at 2024-02-20 00:15:20
+[Query] select * from test at 2024-02-20 00:15:34
+[Query] use test at 2024-02-20 00:24:47
+[Query] start transaction at 2024-02-20 00:24:55
+[Query] insert into values(2,sneh) at 2024-02-20 00:26:58
+[Query] insert into test values(2,test) at 2024-02-20 00:27:25
+[Query] select * from test at 2024-02-20 00:27:37
+[Query] rollback at 2024-02-20 00:27:42
+[Query] select * from test at 2024-02-20 00:27:53
+[Query] start transaction at 2024-02-20 00:30:00
+[Query] insert into test values(2,test) at 2024-02-20 00:31:10
+[Query] commit at 2024-02-20 00:31:15
+[Query] select *  from test at 2024-02-20 00:31:53
+[Query] use test at 2024-02-20 00:32:14
+[Query] select * from test at 2024-02-20 00:32:22
+[Query] start transaction  at 2024-02-20 00:32:31
+[Query] insert into test values(2,test) at 2024-02-20 00:32:48
+[Query] select * from test at 2024-02-20 00:33:00
+[Query] commit at 2024-02-20 00:33:04
+[Query] use test at 2024-02-20 00:34:47
+[Query] start transaction  at 2024-02-20 00:34:56
+[Query] insert into test values(2,test) at 2024-02-20 00:35:12
+[Query] commit at 2024-02-20 00:35:17
+[Query] use test  at 2024-02-20 00:37:00
+[Query] create database test at 2024-02-20 00:37:24
+[Query] create table sneh (id,name) at 2024-02-20 00:38:19
+[Query] use test at 2024-02-20 00:38:24
+[Query] DBMS>  at 2024-02-20 00:38:35
+[Query] create table sneh (id,name) at 2024-02-20 00:38:47
+[Query] start transaction at 2024-02-20 00:38:56
+[Query] insert into sneh values(2,sneh) at 2024-02-20 00:39:09
+[Query] commit at 2024-02-20 00:39:14
+[Query] create database test at 2024-02-20 00:50:31
+[Query] create table test (id,name) at 2024-02-20 00:51:43
+[Query] use test at 2024-02-20 00:51:47
+[Query] create table test (id,name) at 2024-02-20 00:52:20
+[Query] start transaction  at 2024-02-20 00:52:30
+[Query] insert into test values(1,sneh) at 2024-02-20 00:52:51
+[Query] select * from test at 2024-02-20 00:53:00
+[Query] commit at 2024-02-20 00:53:11
+[Query] use test at 2024-02-20 00:55:04
+[Query] start transaction at 2024-02-20 00:55:12
+[Query] insert into test values(2,sneh) at 2024-02-20 00:55:45
+[Query] commit at 2024-02-20 00:55:49
